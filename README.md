@@ -2,6 +2,7 @@
 
 This is my final project for the Coursera course:
 **"Developing AI Applications with Python and Flask" by IBM**
+link to the course: [Developing AI Applications with Python and Flask](https://www.coursera.org/learn/python-project-for-ai-application-development/)
 
 ## 📌 Project Summary
 A Flask-based web app that takes a sentence as input and returns emotion scores for:
